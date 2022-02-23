@@ -29,58 +29,33 @@ Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que v
 
 Références
 
-photographie de l'oeuvre ou du dispositif dans son ensemble: ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+Photographie de l'oeuvre ou du dispositif dans son ensemble: 
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
 
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204301160_iOS.jpg?raw=true)
 
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204312628_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204318406_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204327725_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204340306_iOS.jpg?raw=true)
-
+Photographies des composantes de l'oeuvre:
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204348611_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204402373_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204414176_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204420988_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204444330_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204504614_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204518688_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204535805_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204542117_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204547161_iOS.jpg?raw=true)
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204614850_iOS.jpg?raw=true)
-
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204301160_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204340306_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204732072_iOS.jpg?raw=true)
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204619033_iOS.jpg?raw=true)
 
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204622940_iOS.jpg?raw=true)
-
+Photographies des éléments nécessaires à sa mise en espace:
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204619033_iOS.jpg?raw=true)
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204626790_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204444330_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204504614_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204614850_iOS.jpg?raw=true)
 
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204732072_iOS.jpg?raw=true)
+Photographie du cartel ou du panneau explicatif:
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204518688_iOS.jpg?raw=true)
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204542117_iOS.jpg?raw=true)
 
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204737094_iOS.jpg?raw=true)
+Autoportrait (photo) de vous avec l'oeuvre: J'ai oublié de prendre cette photo.:
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204318406_iOS.jpg?raw=true)
 
-photographies des composantes de l'oeuvre
+Croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
 
-photographies des éléments nécessaires à sa mise en espace
-
-photographie du cartel ou du panneau explicatif
-
-autoportrait (photo) de vous avec l'oeuvre: J'ai oublié de prendre cette photo.
-
-croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)
-
-possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
+Possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci
