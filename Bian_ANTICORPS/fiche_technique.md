@@ -29,7 +29,7 @@ Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que v
 
 Références
 
-photographie de l'oeuvre ou du dispositif dans son ensemble: ![image](20200116_234437139_iOS.jpg)
+photographie de l'oeuvre ou du dispositif dans son ensemble: ![image](20220209_204210268_iOS.jpg)
 
 photographies des composantes de l'oeuvre
 
