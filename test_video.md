@@ -1,14 +1,12 @@
+### Voici les highlights de Kyrie Irving lors du match contre le Magic (NBA, HIGHLIGHTS, 15 mars 2022)
 [![NBA HIGHLIGHTS](http://img.youtube.com/vi/niv0M887THk/0.jpg)](https://www.youtube.com/watch?v=niv0M887THk)
 
 
-L'ID de la vidéo, c'est ce 
 
 
 
 
 
-### Voici l'oeuvre Prosperity II en action (Samuel St-Aubin, BIAN, février 2022)
-[![VIDÉO PROSPERITY](http://img.youtube.com/vi/ceWSjLl8ib8/0.jpg)](http://www.youtube.com/watch?v=ceWSjLl8ib8)
 
 
 
