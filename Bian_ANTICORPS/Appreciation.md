@@ -1,4 +1,5 @@
 Sujet de la présentation :
+
 J’ai trouvé la présentation très pertinente, puisqu’elle parlait d'une branche muséale différente de ceux que l’on voit depuis le début de notre session.
 J’ai été étonné de voir tous les processus impliquer afin de pouvoir mettre en place une œuvre historique dans un musée. Nous ne réalisons pas les techniques 
 et efforts donne afin de préserver l’histoire des nations autochtones à travers leurs objets. Cette présentation nous sa donc montrer comment ils s’entreprennent
