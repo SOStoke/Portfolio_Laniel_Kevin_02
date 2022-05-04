@@ -37,11 +37,11 @@ Un ordinateur puissant (GPU:NVIDIA GeForce GTX 2070, Processor:Intel Core i7, So
 Un projecteur (Epson Powerlite 5510)
 Un Microsoft Kinect 
 
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox.png" width="500" height="600" /> 
 
 > Bac à sable, Ordinateur puissant      
 
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 
 > Projecteur Epson, Microsoft Kinect
  
