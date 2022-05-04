@@ -1,18 +1,23 @@
 # Cosmodôme
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cosmodome.jpg)
-Ceci est tiré du site de Remax **[Site du Remax](https://www.remax-quebec.com/fr/blog/laval.rmx)**
+Ceci est tiré du site d [Site du Cosmodôme](https://cosmodome.org/)
+
+# C'est quoi
 
 **Inauguré en 1994**
 <br>
-**C'est quoi**
 <br>
-Seule institution muséale entièrement consacrée à l’exploration spatiale au Canada, le Cosmodôme vise à stimuler l’intérêt des jeunes et des moins jeunes pour les sciences de l’espace, la culture scientifique et les carrières de l'astronautique. Le Cosmodôme permet de vivre des expériences mémorables donnant un aperçu de l’avenir. Dans un voyage virtuel, découvrez l’espace, admirez un morceau de la Lune et vivez un camp spatial en famille.  
+Seule institution muséale entièrement consacrée à l’exploration spatiale au Canada, le Cosmodôme vise à stimuler l’intérêt des jeunes et des moins jeunes pour les sciences de l’espace, la culture scientifique et les carrières de l'astronautique. Le Cosmodôme permet de vivre des expériences mémorables donnant un aperçu de l’avenir. Dans un voyage virtuel, découvrez l’espace, admirez un morceau de la Lune et vivez un camp spatial en famille.
+<br>
+<br>
+Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 
 
+
+# La Terre vue d'en haut
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 # Année de réalisation: 
-
-# Nom de l'exposition: 
-** Système solaire à l’échelle: **
+** Inconnu **
 # Lieu de mise en exposition: 
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
 # Date de votre visite:
@@ -29,7 +34,7 @@ TopoBox est un outil extrêmement attrayant qui captive les enfants et les adult
 <br>
 Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
+
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 Un bac à sable (avec du sable, bien sûr)
