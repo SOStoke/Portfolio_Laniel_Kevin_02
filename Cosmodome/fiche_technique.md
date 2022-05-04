@@ -8,8 +8,12 @@ Inauguré en 1994
 # Date de votre visite:
 21 mars 2021
 # description de l'oeuvre ou du dispositif multimédia ( soit tu la composes ou tu la reprend en citant le site)
-auteur: inconnu
+auteur: inconnu 
+<br>
+<br>
 type: immersive
+<br>
+<br>
 TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique.
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
