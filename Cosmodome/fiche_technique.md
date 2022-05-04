@@ -22,14 +22,14 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
 # Date de votre visite:
 21 mars 2021
-# description de l'oeuvre ou du dispositif multimédia ( soit tu la composes ou tu la reprend en citant le site)
+# Description  du dispositif multimédia
 
 TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique 
 <br>
 <br>
 Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
-
+espace mur 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 Un bac à sable (avec du sable, ou toutes autres éléments ressemblant)
