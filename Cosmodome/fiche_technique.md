@@ -14,7 +14,7 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 
 
 
-# La Terre vue d'en haut
+# Dispositif multimédia: La Terre vue d'en haut
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 # Année de réalisation: 
 ** Inconnu **
@@ -23,12 +23,7 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 # Date de votre visite:
 21 mars 2021
 # description de l'oeuvre ou du dispositif multimédia ( soit tu la composes ou tu la reprend en citant le site)
-auteur: inconnu 
-<br>
-<br>
-type: immersive
-<br>
-<br>
+
 TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique 
 <br>
 <br>
@@ -37,10 +32,11 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
-Un bac à sable (avec du sable, bien sûr)
-Un ordinateur puissant 
-Un projecteur (un picoprojecteur peu coûteux fera l’affaire)
-Un Microsoft Kinect (généralement environ 40% moins cher si vous obtenez un remis à neuf)
+Un bac à sable (avec du sable, ou toutes autres éléments ressemblant)
+Un ordinateur puissant (GPU:NVIDIA GeForce GTX 2070, Processor:Intel Core i7, Solid State Drive:Samsung 750 EVO 120 SSD, RAM:8 GB DDR 4, Power Supply:Whisper Quiet 
+Un projecteur (Epson Powerlite 5510)
+Un Microsoft Kinect 
+
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
