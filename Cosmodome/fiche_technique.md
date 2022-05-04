@@ -29,7 +29,7 @@ TopoBox est un outil extrêmement attrayant qui captive les enfants et les adult
 <br>
 Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
-espace mur 
+espace, mur, plafond, circulation 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 Un bac à sable (avec du sable, ou toutes autres éléments ressemblant)
@@ -47,7 +47,7 @@ Un Microsoft Kinect
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
-Matériels de construction: La planète, un soutien pour la planète, un recouvre pour dissimuler les machines à fumée, un troue englobant l'œuvre, installations de théâtres pour les lumières de scènes et speaker. Des mures de vitres pour empêcher les gens de toucher et tomber, une espace assez large pour avoir l'œuvre( diamètre de 10m hauteur de 8m ). Des mûres noires. 
+sable, projecteur soutient, les trois piece détachable lors de L,envoie, voir site topo
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 Positif: Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
