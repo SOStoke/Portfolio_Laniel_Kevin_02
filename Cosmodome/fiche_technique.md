@@ -1,7 +1,10 @@
 # Cosmodôme
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204210268_iOS.jpg?raw=true)
-https://www.remax-quebec.com/fr/blog/laval.rmx
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cosmodome.jpg)
+Ceci est tiré du site de Remax **[Site du Remax](https://www.remax-quebec.com/fr/blog/laval.rmx)**
+
 **Inauguré en 1994**
+<br>
+**C'est quoi**
 <br>
 Seule institution muséale entièrement consacrée à l’exploration spatiale au Canada, le Cosmodôme vise à stimuler l’intérêt des jeunes et des moins jeunes pour les sciences de l’espace, la culture scientifique et les carrières de l'astronautique. Le Cosmodôme permet de vivre des expériences mémorables donnant un aperçu de l’avenir. Dans un voyage virtuel, découvrez l’espace, admirez un morceau de la Lune et vivez un camp spatial en famille.  
 
