@@ -1,5 +1,4 @@
-# Sous la glace
-** Cosmodôme **
+# Cosmodôme
 # Année de réalisation: 
 Inauguré en 1994
 # Nom de l'exposition: 
@@ -11,9 +10,11 @@ Inauguré en 1994
 # description de l'oeuvre ou du dispositif multimédia ( soit tu la composes ou tu la reprend en citant le site)
 auteur: inconnu
 type: immersive
-ambiance: musique thématique, décors sombres( espace ), vapeur d’eau pour les planètes de gaz, terrain recréé pour les planètes de terre, couleur éclatantes pour les planètes et noir pour les murs. Plafond très haut. Projecteur de lumières en plan sur les planètes(mettre en valeur). Ambiance lunaire nous faisant flotter comme sur une planète. Apaisant et peu doux.Confortable.
+TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique.
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
+
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 Matériel, machine a fumée, lumière en projection haute, led en dessous de la fumée, fils pour les machines a fumée dissimuler(blanc). Speaker pour la musique ambiante. 
 
@@ -29,4 +30,7 @@ Notes: Facile à produire, peu de technologie. Manque de panache, sinon beau à 
 
 # Référennce
 [Site du Cosmodôme](https://cosmodome.org/)
+[Site du Topobox](http://www.topobox.co/)
+
+#
 
