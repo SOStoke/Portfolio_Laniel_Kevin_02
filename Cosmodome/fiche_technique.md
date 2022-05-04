@@ -39,11 +39,11 @@ Un Microsoft Kinect
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 
-> vue d'ensemble de l'instalation en cour 
+> Bac à sable, Ordinateur puissant      
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 
-> préparation d'un mur qui va faire partie de la mise-en-scene de la chambre de Sasha
+> Projecteur Epson, Microsoft Kinect
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
