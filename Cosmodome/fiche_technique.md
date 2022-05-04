@@ -1,6 +1,12 @@
 # Cosmodôme
+
+**Inauguré en 1994**
+<br>
+Seule institution muséale entièrement consacrée à l’exploration spatiale au Canada, le Cosmodôme vise à stimuler l’intérêt des jeunes et des moins jeunes pour les sciences de l’espace, la culture scientifique et les carrières de l'astronautique. Le Cosmodôme permet de vivre des expériences mémorables donnant un aperçu de l’avenir. Dans un voyage virtuel, découvrez l’espace, admirez un morceau de la Lune et vivez un camp spatial en famille.  
+
+
 # Année de réalisation: 
-Inauguré en 1994
+
 # Nom de l'exposition: 
 ** Système solaire à l’échelle: **
 # Lieu de mise en exposition: 
@@ -14,13 +20,19 @@ auteur: inconnu
 type: immersive
 <br>
 <br>
-TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique.
-
+TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique 
+<br>
+<br>
+Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
-Matériel, machine a fumée, lumière en projection haute, led en dessous de la fumée, fils pour les machines a fumée dissimuler(blanc). Speaker pour la musique ambiante. 
+Un bac à sable (avec du sable, bien sûr)
+Un ordinateur puissant 
+Un projecteur (un picoprojecteur peu coûteux fera l’affaire)
+Un Microsoft Kinect (généralement environ 40% moins cher si vous obtenez un remis à neuf)
+ 
 
 # Listes des éléments nécessaires pour la mise en exposition 
 Matériels de construction: La planète, un soutien pour la planète, un recouvre pour dissimuler les machines à fumée, un troue englobant l'œuvre, installations de théâtres pour les lumières de scènes et speaker. Des mures de vitres pour empêcher les gens de toucher et tomber, une espace assez large pour avoir l'œuvre( diamètre de 10m hauteur de 8m ). Des mûres noires. 
