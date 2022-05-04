@@ -25,6 +25,7 @@ TopoBox est un outil extrêmement attrayant qui captive les enfants et les adult
 <br>
 Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Bian_ANTICORPS/media/20220209_204348611_iOS.jpg?raw=true)
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
