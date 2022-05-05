@@ -1,6 +1,6 @@
 # Cosmodôme
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cosmodome.jpg)
-Ceci est tiré du site d [Site du Cosmodôme](https://cosmodome.org/)
+Ceci est tiré du site du Cosmodôme [Site du Cosmodôme](https://cosmodome.org/)
 
 # C'est quoi
 
@@ -81,17 +81,20 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 
 
-**Positif: **  
+**Positif**
+
 Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
 
-Négatifs: Manque d’énergie, planète pour tourner comme leur orbites. Devient redondant, puisque c’est la même installations pour toutes les planètes. Manque d’effets sonores( on entend les gicleurs de vapeur d’eau ) Devrait avoir de la lumière sur les panneaux( difficile a voir ). Les planètes devraient être un peu repeintes( couleur atténuée avec les années) .
+**Négatif**
+Manque d’énergie, planète pour tourner comme leur orbites. Devient redondant, puisque c’est la même installations pour toutes les planètes. Manque d’effets sonores( on entend les gicleurs de vapeur d’eau ) Devrait avoir de la lumière sur les panneaux( difficile a voir ). Les planètes devraient être un peu repeintes( couleur atténuée avec les années) .
 
 Notes: Facile à produire, peu de technologie. Manque de panache, sinon beau à l'œil. 
 
-# Référennce
-[Site du Cosmodôme](https://cosmodome.org/)
+# Références
+**[Site du Cosmodôme](https://cosmodome.org/)**
 <br>
-[Site du Topobox](http://www.topobox.co/)
+**[Site du Topobox](http://www.topobox.co/)**
+<br>
+**[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 
-#
 
