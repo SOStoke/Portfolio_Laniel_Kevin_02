@@ -31,7 +31,28 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 espace, mur, plafond, circulation 
 
-Le dispositif, après avoir été acheté, viens en trois partie différente que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 11 étapes ci-dessous:
+Le dispositif, après avoir été acheté, viens en trois partie différente que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
+
+1. Wait for crate to acclimate to indoor temperature to avoid condensation on electronics.
+
+2. Use bit (found taped to underside of crate) to remove top of crate and 2x4 braces.
+
+3. Unpack crate and check for damages.
+
+4. Assemble legs. Use included screws to attach cross members according to their corresponding letters/numbers.
+
+5. Set sandbox on top of leg assembly.
+
+6. With two people, set mast in slots on back of sandbox. Ensure mast is seated so cross member is in contact with sandbox.
+
+7. Plug 3 power cords hanging from mast into provided extension cord and then plug extension cord into power outlet
+
+8. Fill sandbox with your preferred substrate.
+
+9. Push the green button on the back of the mast.
+
+10. Power up projector using included remote control.
+
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 
