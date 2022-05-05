@@ -94,6 +94,8 @@ Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)
 
 * le bac à sable (incluant les pattes et la kinect)
 
+* 2-3 de sable (ou autres substances équivalentes)
+
 * un support à projecteur
 
 * les cordons d’alimentation (accrocher a une prise électrique)
@@ -102,7 +104,7 @@ Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)
  
  <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cordage_alimentation_topobox.png" width="500" height="600" /> 
 
-> Bac à sable, support à projecteur, cordons d'alimentation      
+> Bac à sable, sable, support à projecteur, cordons d'alimentation      
 
 <br>
 Comme mentionné précédemment, le dispositif est livré en 3 pièces détachées: les pattes, le bac à sable (kinect incorporé) et le soutient du projecteur (projecteur). Il faut avoir bonne quantité sable où tous autres substances ressemblantes et pas trop foncé afin de bien refléter la lumière. Finalement, une prise électrique pour les branchements des trois cordes.
