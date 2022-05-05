@@ -80,15 +80,19 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 
+**Expérience:**
+<br>
+Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur du relief créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
 
-**Positif**
+**Positif:**
+<br>
+Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses.
 
-Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
+**Négatif:**
+<br>
+ aveugle
+Le topo box nécessite un nettoyage constant, puisqu'il n'est pas très sanitaire et utilise une substance qui est difficile à contenir, du sable. Lors de mon expérience, il y avait du sable tout autour du dispositif. J'aurais aimé un bac à sable d'une plus grande envergure afin de créer des territoires à plus grandes échelles et mieux expériences les processus météorologiques créés. De plus, en faisant des recherches sur le site de leur compagnie, j'ai découvert des fonctionnalités qui n'avaient pas été implanter dans l'interaction du topo box incluant des créations de volcans, une option pour créer une averse par-dessus tous les continents en même temps et une fonction permettant de geler le terrain afin de créer un territoire sans modifier la projection précédente.
 
-**Négatif**
-Manque d’énergie, planète pour tourner comme leur orbites. Devient redondant, puisque c’est la même installations pour toutes les planètes. Manque d’effets sonores( on entend les gicleurs de vapeur d’eau ) Devrait avoir de la lumière sur les panneaux( difficile a voir ). Les planètes devraient être un peu repeintes( couleur atténuée avec les années) .
-
-Notes: Facile à produire, peu de technologie. Manque de panache, sinon beau à l'œil. 
 
 # Références
 **[Site du Cosmodôme](https://cosmodome.org/)**
