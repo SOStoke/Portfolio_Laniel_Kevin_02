@@ -37,7 +37,7 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)**
 <br>
 <br>
-Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. IL faut également inclure un espace assez large tout au long du dispositif afin de pouvoir circuler librement et permettre aux utilisateurs de jouer avec le sable. IL faut une pièce d'un minimum de 254 centimètres de hauteur, sois 8.3 pieds. Il est recommandé de placer l'arrière du Topobox à un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
+Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. Il faut également inclure un espace assez large tout au long du dispositif afin de pouvoir circuler librement et permettre aux utilisateurs de jouer avec le sable. Il faut une pièce d'un minimum de 254 centimètres de hauteur, sois 8.3 pieds. Il est recommandé de placer l'arrière du Topobox à un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox_3.png" width="500" height="600" /> 
 
@@ -118,7 +118,7 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 > vidéo de création d'averse
 
-Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur du relief créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
+Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur topographique créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
 
 # Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 
