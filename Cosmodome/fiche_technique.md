@@ -33,25 +33,26 @@ espace, mur, plafond, circulation
 
 Le dispositif, après avoir été acheté, viens en trois partie différente que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
 
-1. Wait for crate to acclimate to indoor temperature to avoid condensation on electronics.
+1. Attendez que la caisse s’acclimate à la température intérieure pour éviter condensation sur l’électronique.
 
-2. Use bit (found taped to underside of crate) to remove top of crate and 2x4 braces.
+2. Utilisez le bit (trouvé collé sur la face inférieure de la caisse) pour enlever le dessus de caisse et accolades 2x4.
 
-3. Unpack crate and check for damages.
+3. Déballez la caisse et vérifiez les dommages.
 
-4. Assemble legs. Use included screws to attach cross members according to their corresponding letters/numbers.
+4. Assemblez les jambes. Utilisez des vis incluses pour fixer les traverses selon leurs lettres/chiffres correspondants.
 
-5. Set sandbox on top of leg assembly.
+5. Définissez le bac à sable sur le dessus de l’assemblage de la jambe.
 
-6. With two people, set mast in slots on back of sandbox. Ensure mast is seated so cross member is in contact with sandbox.
+6. Avec deux personnes, mettre le mât dans les fentes sur le dos du bac à sable. Assurez-vous que le mât est assis afin que le membre croisé soit en contact avec le bac à sable. 
 
-7. Plug 3 power cords hanging from mast into provided extension cord and then plug extension cord into power outlet
+7. Branchez 3 cordons d’alimentation suspendus au mât dans la rallonge fournie, puis branchez la rallonge dans la prise de courant 
 
-8. Fill sandbox with your preferred substrate.
+8. Remplissez le bac à sable avec votre substrat préféré. 
 
-9. Push the green button on the back of the mast.
+9. Appuyez sur le bouton vert à l’arrière du mât. 
 
-10. Power up projector using included remote control.
+10. Projecteur de mise sous tension à l’aide d’une télécommande incluse.
+
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
