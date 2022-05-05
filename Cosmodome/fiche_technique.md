@@ -31,11 +31,17 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 espace, mur, plafond, circulation 
 
+Le dispositif, après avoir été acheté, viens en trois partie différente que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 11 étapes ci-dessous:
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
-Un bac à sable (avec du sable, ou toutes autres éléments ressemblant)
-Un ordinateur puissant (GPU:NVIDIA GeForce GTX 2070, Processor:Intel Core i7, Solid State Drive:Samsung 750 EVO 120 SSD, RAM:8 GB DDR 4, Power Supply:Whisper Quiet 
-Un projecteur (Epson Powerlite 5510)
-Un Microsoft Kinect 
+
+* Un bac à sable (avec du sable, ou toutes autres éléments ressemblant) 
+
+* Un ordinateur puissant (GPU:NVIDIA GeForce GTX 2070, Processor:Intel Core i7, Solid State Drive:Samsung 750 EVO 120 SSD, RAM:8 GB DDR 4, Power Supply:Whisper Quiet) 
+
+* Un projecteur (Epson Powerlite 5510) 
+
+* Un Microsoft Kinect 
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_droit_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/ordinateur.jpg" width="500" height="600" /> 
 
@@ -43,10 +49,11 @@ Un Microsoft Kinect
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/kinect.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" /> 
 
-> Projecteur Epson, Microsoft Kinect
+> Microsoft Kinect, Projecteur Epson
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
+
 sable, projecteur soutient, les trois piece détachable lors de L,envoie, voir site topo
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
