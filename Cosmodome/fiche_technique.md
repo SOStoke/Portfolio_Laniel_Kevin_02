@@ -17,7 +17,7 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 # Dispositif multimédia: La Terre vue d'en haut
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
 # Année de réalisation: 
-** Inconnu **
+**Inconnu**
 # Lieu de mise en exposition: 
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
 # Date de votre visite:
