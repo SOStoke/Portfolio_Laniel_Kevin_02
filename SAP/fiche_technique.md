@@ -1,55 +1,4 @@
-### Configuration du Sensible - Béchard Hudon
 
-Configuration du Sensible est une exposition réalisé par Béchard Hudon et exposé à la maison des arts de Laval (Québec).
-
-Cette exposition est tournée autours des résonnances tant sonores que physiques et sociales.
-
-C'est une expérience qui demande est lente et calme qui permet de se questionner.
-
-### Description de l'oeuvre 
-
-![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/description_projet_mur.jpg)
-
-(mettre photo Cartel )
-
-
-### Mise en espace 
-
-L'oeuvre se situe au milieu de la salle Alfred Pellan, c'est l'oeuvre que le visiteur voit en premier
-
-De par sa taille mais aussi sa matière. 
-
-Il y 4 panneaux de contreplaqué baltique qui sont inclinés, cette ensemble de contreplaqué forme une sorte de carré.
-
-Ces 4 panneaux sont soutenues par des pieds de bois. 
-
-Le visiteur est invité à se placer et se déplacer dans l'esapce où bon lui semble. 
-
-### Composante technique 
-
-L'oeuvre est composé de 
-
-* contreplaqué baltique
-
-![contreplaque_baltique](media/photo_SAP_configuration_sensible/SAP_bois_ensemble.jpg)
-
-* transducteur (permettant de transformer le signal physique en un autre)
-
-![trasnducteur](media/photo_SAP_configuration_sensible/SAP_bois_transducteur.jpg)
-
-* Amplificateur 
-
-* interface audio 
-
-¡[amplificateur](media/photo_SAP_configuration_sensible/SAP_rangement_electronique.jpg)
-
-* détecteurs de mouvement 
-
-![detecteur_mouvement](media/photo_SAP_configuration_sensible/SAP_detecteur_mouvement.jpg)
-
-* ordinateur 
-
-* alimatentation 
 
 ### Composante nécessaire de la mise en exposition
 
@@ -62,21 +11,9 @@ L'oeuvre était vraiment bien réalisé et une utilisation intérressante des so
 J'aurais cependant mit un peu plus fort les sons pour qu'on les entendes mieux et pouvoir ainsi mieux ressentir les vibrations. 
 
 
-
-
-
-
-
-
-
 # Configuration du Sensible
 ## Par: Béchard Hudon
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/ensemble_gauche_mur.jpg)
-
-
-
-# C'est quoi
-
 # Année de réalisation: 
 **2022**
 # Lieu de mise en exposition: 
@@ -84,43 +21,42 @@ J'aurais cependant mit un peu plus fort les sons pour qu'on les entendes mieux e
 # Date de votre visite:
 16 mars 2022
 
-
 # Description du l'oeuvre
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/ensemble_mur_face.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/description_projet_mur.jpg" width="500" height="600" /> 
-<br>
-<br>
-TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique 
-<br>
-<br>
-Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/croquis_tobobox.jpg)
-<br>
-Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)**
-<br>
-<br>
-Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. Il faut également inclure un espace assez large tout au long du dispositif afin de pouvoir circuler librement et permettre aux utilisateurs de jouer avec le sable. Il faut une pièce d'un minimum de 254 centimètres de hauteur, sois 8.3 pieds. Il est recommandé de placer l'arrière du Topobox à un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
+
+L'oeuvre est position au centre de la salle dans une grande espace ou la circulation y est très fluide. Elle est d'environ 5-6 mètres carrés et d'environ 3 mètres de hauteur. On y trouve 4 feuilles de contreplaqué soutenues par des planches de bois franc. Les gens se déplacent autant autour de l'oeuvre qu'à l'intérieur pour comprendre et vivre l'expérience sensorielle et immersive.
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox_3.png" width="500" height="600" /> 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 
-* Un bac à sable (avec du sable, ou toutes autres éléments ressemblant) 
+* Contreplaqué 
 
-* Un ordinateur puissant (GPU: NVIDIA GeForce GTX 2070, Processor: Intel Core i7, Solid State Drive: Samsung 750 EVO 120 SSD, RAM:8 GB DDR 4, Power Supply: Whisper Quiet) 
+* Amplificateur 
 
-* Un projecteur (Epson Powerlite 5510) et son soutient
+* Détecteurs de mouvement
 
-* Un Microsoft Kinect (capteurs de profondeur)
+* Ordinateur 
+ 
+* Alimatentation 
 
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_droit_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/ordinateur.jpg" width="500" height="600" /> 
+* Lumière
 
-> Bac à sable, Ordinateur puissant      
 
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/kinect.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" /> 
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/mur_arriere.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/mur_auparleur_proche.jpg" width="500" height="600" /> 
 
-> Microsoft Kinect, Projecteur Epson
+> Contreplaqué, Amplificateur      
+
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/vue_interieur_1.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/systeme_electronique.jpg" width="500" height="600" /> 
+
+> Détecteur de mouvement, ordinateur
+ 
+ <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/kinect.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/plafond_lumiere.jpg" width="500" height="600" /> 
+
+> Alimentation, lumière
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
