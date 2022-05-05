@@ -31,7 +31,7 @@ Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https:
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
 espace, mur, plafond, circulation 
 
-Le dispositif, après avoir été acheté, viens en trois partie différente que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
+Le dispositif, après avoir été acheté, viens en trois parties différentes que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
 
 1. Attendez que la caisse s’acclimate à la température intérieure pour éviter condensation sur l’électronique.
 
@@ -53,6 +53,7 @@ Le dispositif, après avoir été acheté, viens en trois partie différente que
 
 10. Projecteur de mise sous tension à l’aide d’une télécommande incluse.
 
+De plus, le topo box nécessite un espace d'environ 60 pouces carré, ce qui équivaut à 1.5 mètres de chaque côté. IL faut également inclure un espace assez large de chaque tour au long du dispositif afin de pouvoir circuler librement et jouer avec le sable. Il est recommandé d'à coter l'arrière du topo box sur un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
 
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
