@@ -39,7 +39,7 @@ Le Topobox nécessite un espace d'environ 1.5 mètres de chaque côté. IL faut 
 
 * Un ordinateur puissant (GPU:NVIDIA GeForce GTX 2070, Processor:Intel Core i7, Solid State Drive:Samsung 750 EVO 120 SSD, RAM:8 GB DDR 4, Power Supply:Whisper Quiet) 
 
-* Un projecteur (Epson Powerlite 5510) 
+* Un projecteur (Epson Powerlite 5510) et son soutient
 
 * Un Microsoft Kinect 
 
@@ -74,10 +74,15 @@ Le dispositif, après avoir été acheté, viens en trois parties différentes q
 9. Appuyez sur le bouton vert à l’arrière du mât. 
 
 10. Allumer le projecteur à l’aide d’une télécommande incluse.
-sable, projecteur soutient, les trois piece détachable lors de l'envoie, voir site topo
+
+Comme mentionné précédemment, le dispositif est livré en 3 pièces détachées: les pattes, le bac à sable (kinect incorporé) et le soutient du projecteur (projecteur). Il faut avoir bonne quantité sable où tous autres substances ressemblantes et pas trop foncé afin de bien refléter la lumière. Finalement, une prise électrique pour les branchements des trois cordes.
+
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
-Positif: Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
+
+
+**Positif: **  
+Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
 
 Négatifs: Manque d’énergie, planète pour tourner comme leur orbites. Devient redondant, puisque c’est la même installations pour toutes les planètes. Manque d’effets sonores( on entend les gicleurs de vapeur d’eau ) Devrait avoir de la lumière sur les panneaux( difficile a voir ). Les planètes devraient être un peu repeintes( couleur atténuée avec les années) .
 
@@ -85,6 +90,7 @@ Notes: Facile à produire, peu de technologie. Manque de panache, sinon beau à 
 
 # Référennce
 [Site du Cosmodôme](https://cosmodome.org/)
+<br>
 [Site du Topobox](http://www.topobox.co/)
 
 #
