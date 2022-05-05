@@ -28,33 +28,10 @@ TopoBox est un outil extrêmement attrayant qui captive les enfants et les adult
 <br>
 <br>
 Ceci est tiré du site des Société du Musée de Québec **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
+
 # Explication sur la mise en espace de l'oeuvre ou du dispositif
-espace, mur, plafond, circulation 
 
-Le dispositif, après avoir été acheté, viens en trois parties différentes que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
-
-1. Attendez que la caisse s’acclimate à la température intérieure pour éviter condensation sur l’électronique.
-
-2. Utilisez le bit (trouvé collé sur la face inférieure de la caisse) pour enlever le dessus de caisse et accolades 2x4.
-
-3. Déballez la caisse et vérifiez les dommages.
-
-4. Assemblez les jambes. Utilisez des vis incluses pour fixer les traverses selon leurs lettres/chiffres correspondants.
-
-5. Définissez le bac à sable sur le dessus de l’assemblage de la jambe.
-
-6. Avec deux personnes, mettre le mât dans les fentes sur le dos du bac à sable. Assurez-vous que le mât est assis afin que le membre croisé soit en contact avec le bac à sable. 
-
-7. Branchez 3 cordons d’alimentation suspendus au mât dans la rallonge fournie, puis branchez la rallonge dans la prise de courant 
-
-8. Remplissez le bac à sable avec votre substrat préféré. 
-
-9. Appuyez sur le bouton vert à l’arrière du mât. 
-
-10. Projecteur de mise sous tension à l’aide d’une télécommande incluse.
-
-De plus, le topo box nécessite un espace d'environ 60 pouces carré, ce qui équivaut à 1.5 mètres de chaque côté. IL faut également inclure un espace assez large de chaque tour au long du dispositif afin de pouvoir circuler librement et jouer avec le sable. Il est recommandé d'à coter l'arrière du topo box sur un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
-
+Le Topobox nécessite un espace d'environ 1.5 mètres de chaque côté. IL faut également inclure un espace assez large tout au long du dispositif afin de pouvoir circuler librement et permettre aux utilisateurs de jouer avec le sable. IL faut une pièce d'un minimum de 254 centimètres de hauteur, sois 8.3 pieds. Il est recommandé de placer l'arrière du Topobox à un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
 
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 
@@ -76,8 +53,28 @@ De plus, le topo box nécessite un espace d'environ 60 pouces carré, ce qui éq
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
+Le dispositif, après avoir été acheté, viens en trois parties différentes que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
 
-sable, projecteur soutient, les trois piece détachable lors de L,envoie, voir site topo
+1. Attendez que la caisse s’acclimate à la température intérieure pour éviter une condensation sur l’électronique.
+
+2. Utilisez le bit (collé sur la face inférieure de la caisse) pour enlever le dessus de la caisse ainsi que les attaches métalliques.
+
+3. Déballez la caisse et vérifiez si des pièces sont endommagées.
+
+4. Assemblez les jambes. Utilisez les vis incluses pour fixer les traverses selon leurs lettres/chiffres correspondants.
+
+5. Déposer le bac à sable sur le dessus de l’assemblage de la jambe.
+
+6. Avec deux personnes, mettre le mât dans les fentes sur le dos du bac à sable. Assurez-vous que le mât est assis afin que le membre croisé soit en contact avec le bac à sable. 
+
+7. Branchez les 3 cordons d’alimentation suspendus au mât dans la rallonge fournie, puis branchez la rallonge dans la prise de courant.
+
+8. Remplissez le bac à sable avec votre substance préféré. 
+
+9. Appuyez sur le bouton vert à l’arrière du mât. 
+
+10. Allumer le projecteur à l’aide d’une télécommande incluse.
+sable, projecteur soutient, les trois piece détachable lors de l'envoie, voir site topo
 
 # Expérience vécue ( Description de votre expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser) Ce qui vous a plu (justification) Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 Positif: Emplacement intéressant, espace pour bouger, de bonne grosseur, bien divisée, planète bien recréée, panneaux indicatifs clairs et donnant des informations intéressantes. De la vapeur afin d’imiter l’ambiance des planètes gazeuses et les terrains recrée en se basant de la faune des planètes. Planète de taille conforme aux autres. Lumière ou led en dessous de la vapeur donne un effet survolé en colorant la vapeur et en dissimulant le plancher.
