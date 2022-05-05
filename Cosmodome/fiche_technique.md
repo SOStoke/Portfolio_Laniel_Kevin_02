@@ -21,7 +21,7 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 # Lieu de mise en exposition: 
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
 # Date de votre visite:
-21 mars 2021
+21 mars 2022
 # Description  du dispositif multimédia
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png)
 <br>
