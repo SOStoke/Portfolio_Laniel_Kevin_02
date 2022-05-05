@@ -8,7 +8,7 @@ C'est une expérience qui demande est lente et calme qui permet de se questionne
 
 ### Description de l'oeuvre 
 
-Selon le cartel d'exposition, L'en Deçà (2021) est décrite comme une oeuvre : 
+![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/description_projet_mur.jpg)
 
 (mettre photo Cartel )
 
