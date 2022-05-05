@@ -39,6 +39,8 @@ Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)
 <br>
 Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. IL faut également inclure un espace assez large tout au long du dispositif afin de pouvoir circuler librement et permettre aux utilisateurs de jouer avec le sable. IL faut une pièce d'un minimum de 254 centimètres de hauteur, sois 8.3 pieds. Il est recommandé de placer l'arrière du Topobox à un mur afin de cacher les composantes électroniques s'y trouvant. Une prise électrique régulière est naturellement nécessaire au fonctionnement de l'appareil.
 
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox_3.png" width="500" height="600" /> 
+
 # Liste des composantes et techniques de l'oeuvre ou du dispositif  
 
 * Un bac à sable (avec du sable, ou toutes autres éléments ressemblant) 
@@ -112,20 +114,27 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 # Expérience vécue 
 
-### Voici les highlights de Kyrie Irving lors du match contre le Magic (NBA, HIGHLIGHTS, 15 mars 2022)
-[![NBA HIGHLIGHTS](http://img.youtube.com/vi/niv0M887THk/0.jpg)](https://www.youtube.com/shorts/wrmGyic1cP8)
+[![NBA HIGHLIGHTS](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/topobox_1.png)](https://www.youtube.com/shorts/wrmGyic1cP8)
+
+> vidéo de création d'averse
 
 Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur du relief créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
 
 # Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 
+
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png" width="500" height="600" /> 
+<br>
 **Positif:**
+<br>
 <br>
 Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses.
 
+ <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_cote_droit_topobox.png" width="500" height="600" /> 
+ <br>
 **Négatif:**
 <br>
- aveugle
+<br>
 Le topo box nécessite un nettoyage constant, puisqu'il n'est pas très sanitaire et utilise une substance qui est difficile à contenir, du sable. Lors de mon expérience, il y avait du sable tout autour du dispositif. J'aurais aimé un bac à sable d'une plus grande envergure afin de créer des territoires à plus grandes échelles et mieux expériences les processus météorologiques créés. De plus, en faisant des recherches sur le site de leur compagnie, j'ai découvert des fonctionnalités qui n'avaient pas été implanter dans l'interaction du topo box incluant des créations de volcans, une option pour créer une averse par-dessus tous les continents en même temps et une fonction permettant de geler le terrain afin de créer un territoire sans modifier la projection précédente.
 
 
