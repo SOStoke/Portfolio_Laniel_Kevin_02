@@ -112,6 +112,9 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 # Expérience vécue 
 
+### Voici les highlights de Kyrie Irving lors du match contre le Magic (NBA, HIGHLIGHTS, 15 mars 2022)
+[![NBA HIGHLIGHTS](http://img.youtube.com/vi/niv0M887THk/0.jpg)](https://www.youtube.com/shorts/wrmGyic1cP8)
+
 Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur du relief créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
 
 # Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
