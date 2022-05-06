@@ -114,7 +114,7 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 # Expérience vécue 
 
-[![NBA HIGHLIGHTS](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/topobox_1.png)](https://www.youtube.com/shorts/wrmGyic1cP8)
+[![Demonstration](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/topobox_1.png)](https://www.youtube.com/shorts/wrmGyic1cP8)
 
 > vidéo de création d'averse
 
