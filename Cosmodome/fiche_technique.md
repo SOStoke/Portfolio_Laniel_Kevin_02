@@ -1,4 +1,5 @@
-# Cosmodôme
+# La Terre vue d'en haut
+## Cosmodôme
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cosmodome.jpg)
 Ceci est tiré du site du Cosmodôme: [Site du Cosmodôme](https://cosmodome.org/)
 
@@ -14,13 +15,13 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 
 
 
-## Dispositif multimédia: La Terre vue d'en haut
+## Dispositif multimédia
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
-### Année de réalisation: 
+### Année de réalisation
 **Inconnu**
-### Lieu de mise en exposition: 
+### Lieu de mise en exposition 
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
-### Date de votre visite:
+### Date de votre visite
 21 mars 2022
 ## Description  du dispositif multimédia
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png)
