@@ -2,7 +2,7 @@
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/cosmodome.jpg)
 Ceci est tiré du site du Cosmodôme: [Site du Cosmodôme](https://cosmodome.org/)
 
-# C'est quoi
+## C'est quoi
 
 **Inauguré en 1994**
 <br>
@@ -14,15 +14,15 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 
 
 
-# Dispositif multimédia: La Terre vue d'en haut
+## Dispositif multimédia: La Terre vue d'en haut
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600" /> 
-# Année de réalisation: 
+### Année de réalisation: 
 **Inconnu**
-# Lieu de mise en exposition: 
+### Lieu de mise en exposition: 
 2150 Autoroute des Laurentides O, Laval QC H7T 2T8
-# Date de votre visite:
+### Date de votre visite:
 21 mars 2022
-# Description  du dispositif multimédia
+## Description  du dispositif multimédia
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png)
 <br>
 <br>
@@ -31,7 +31,7 @@ Topobox, le bac à sable à réalité virtuelle, est un soutenu par la fondation
 <br>
 Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
 
-# Explication sur la mise en espace de l'oeuvre ou du dispositif
+## Explication sur la mise en espace de l'oeuvre ou du dispositif
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/croquis_tobobox.jpg)
 <br>
 Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)**
@@ -41,7 +41,7 @@ Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. Il faut ég
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_arriere_gauche_topobox_3.png" width="500" height="600" /> 
 
-# Liste des composantes et techniques de l'oeuvre ou du dispositif  
+## Liste des composantes et techniques de l'oeuvre ou du dispositif  
 
 * Un bac à sable (avec du sable, ou toutes autres éléments ressemblant) 
 
@@ -56,7 +56,7 @@ Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. Il faut ég
 > Bac à sable, Projecteur Epson
  
 
-# Listes des éléments nécessaires pour la mise en exposition 
+## Listes des éléments nécessaires pour la mise en exposition 
 
 Le dispositif, après avoir été acheté, viens en trois parties différentes que l'on doit assembler à l'aide du manuel d'assemblage comprenant les 10 étapes ci-dessous:
 <br>
@@ -108,7 +108,7 @@ Ceci est tiré du site site Topobox: **[Site du Topobox](http://www.topobox.co/)
 Comme mentionné précédemment, le dispositif est livré en 3 pièces détachées: les pattes, le bac à sable (kinect incorporé) et le soutient du projecteur (projecteur). Il faut avoir bonne quantité sable où tous autres substances ressemblantes et pas trop foncé afin de bien refléter la lumière. Finalement, une prise électrique pour les branchements des trois cordes.
 
 
-# Expérience vécue 
+## Expérience vécue 
 
 [![Demonstration](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/topobox_1.png)](https://www.youtube.com/shorts/wrmGyic1cP8)
 
@@ -116,19 +116,19 @@ Comme mentionné précédemment, le dispositif est livré en 3 pièces détaché
 
 Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmodôme. Elle se trouvait entre plusieurs panneaux de description, mais elle avait grandement sorti du lot et ainsi attire mon attention. Il n'y avait pas d'explication sur le fonctionnement de l'appareil, mais il était assez facile à déchiffrer lorsque j'ai voulu toucher aux sables et qu'il avait, par la suite, changé de couleur. J'ai donc fait une petite montagne en cumulant du sable et compris que la couleur changeait selon la hauteur topographique créé. J'ai ensuite tenté de cacher la lumière du projecteur ce qui avait créé une animation de pluie se déversant de haut en bas des montagnes simulant une averse et ma main le nuage. Plus le relief était bas, plus la couleur était froide (bleue) et plus le relief était haut, plus la couleur était chaude (rouge). Si on allait assez haut, la lumière devenait blanche simulant de la neige.
 
-# Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
+## Aspect que vous avez moin aimé et pourquoi et ce que vous aviez fait autrement
 
 
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png" width="500" height="600" /> 
 <br>
-**Positif:**
+###Positif
 <br>
 <br>
 Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses. Finalement, il est  utile à des fins éducatif pour de nombreuses sciences de la Terre tels que la topographie.
 
  <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_cote_droit_topobox.png" width="500" height="600" /> 
  <br>
-**Négatif:**
+###Négatif
 <br>
 <br>
 Le topo box nécessite un nettoyage constant, puisqu'il n'est pas très sanitaire et utilise une substance qui est difficile à contenir, du sable. Lors de mon expérience, il y avait du sable tout autour du dispositif. J'aurais aimé un bac à sable d'une plus grande envergure afin de créer des territoires à plus grandes échelles et mieux expériences les processus météorologiques créés. De plus, en faisant des recherches sur le site de leur compagnie, j'ai découvert des fonctionnalités qui n'avaient pas été implanter dans l'interaction du topo box incluant des créations de volcans, une option pour créer une averse par-dessus tous les continents en même temps et une fonction permettant de geler le terrain afin de créer un territoire sans modifier la projection précédente.
