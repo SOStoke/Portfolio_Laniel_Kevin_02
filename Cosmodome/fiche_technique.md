@@ -26,7 +26,7 @@ Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https
 ![image](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png)
 <br>
 <br>
-TopoBox est un outil extrêmement attrayant qui captive les enfants et les adultes en enseignant diverses propriétés de topographie, d’hydrologie, de géomorphologie et de gestion des terres. Pour utiliser la TopoBox, déplacez simplement le sable et regardez-le changer dans le nouvel environnement. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables, et regarder l’eau s’accumuler et s’écouler sur divers bassins versants. Déplacez simplement le sable. Vous pouvez créer différentes formations géographiques, des montagnes aux vallées en passant par les deltas de rivières et les plaines inondables. Surveillez l’écoulement de l’eau et recueillez-vous sur divers hangars d’eau. Topobox peut être utilisé pour enseigner et étudier la topographie, la géomorphologie, l’hydrologie, la géologie, l’érosion, les dépôts, la conservation, de nombreuses autres sciences de la Terre et même l’informatique 
+Topobox, le bac à sable à réalité virtuelle, est un soutenu par la fondation National des Sciences. Topobox se compose d’une bac de sable, d’un scanner et d’un projecteur. Le scanner (un scanner 3D Kinect) détecte la hauteur et le placement du sable dans le bassin, calcule la projection appropriée et transmet les informations au projecteur, qui projette ensuite des lignes et des couleurs topographiques sur le sable. 
 <br>
 <br>
 Ceci est tiré du site des Société du Musée de Québec: **[Site du SMQ](https://www.musees.qc.ca/fr/musees/guide/cosmodome)**
@@ -49,15 +49,11 @@ Le Topobox nécessite un espace d'environ 2 mètres par 1.5 mètres. Il faut ég
 
 * Un projecteur (Epson Powerlite 5510) et son soutient
 
-* Un Microsoft Kinect (capteurs de profondeur)
+* Un Microsoft Kinect (capteurs de profondeur)  
 
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_droit_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/ordinateur.jpg" width="500" height="600" /> 
+<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_droit_topobox.png" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" /> 
 
-> Bac à sable, Ordinateur puissant      
-
-<img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/kinect.jpg" width="500" height="600" />   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/projecteur_topobox_1.png" width="500" height="600" /> 
-
-> Microsoft Kinect, Projecteur Epson
+> Bac à sable, Projecteur Epson
  
 
 # Listes des éléments nécessaires pour la mise en exposition 
@@ -128,7 +124,7 @@ Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmod
 **Positif:**
 <br>
 <br>
-Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses.
+Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses. Finalement, il est  utile à des fins éducatif pour de nombreuses sciences de la Terre tels que la topographie.
 
  <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_cote_droit_topobox.png" width="500" height="600" /> 
  <br>
