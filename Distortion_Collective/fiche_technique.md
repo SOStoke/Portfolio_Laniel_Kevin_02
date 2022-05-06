@@ -1,14 +1,22 @@
 # Distorsion Collective (2021-2022)
+### Réalisé par:
+
+* William Dubois
+
+* Ghislain Lacombe
+
 
 ## Description
 
-L’expérience commence par la perspective d’un élève qui va commencer ses premiers cours en ligne durant le confinement avec enthousiasme. Les complications commencent à partir du moment où le professeur se présente en zoom call. Les travaux s’accumulent, la personne commence a se sentir seul et isoler, les journées fillent de plus en plus rapidement et cela ne fait qu'empirer sa situation d'angoisse et de solitude. Cette oeuvre était une comparaison de la vie d'un étudiant lors de la pandemie du covid-19.
+L’expérience commence par la perspective d’un élève qui va commencer ses premiers cours en ligne durant le confinement avec enthousiasme. Les complications commencent à partir du moment où le professeur se présente en zoom call. Les travaux s’accumulent, la personne commence à se sentir seul et isoler, les journées fillent de plus en plus rapidement et cela ne fait qu'empirer sa situation d'angoisse et de solitude. Cette oeuvre était une comparaison de la vie d'un étudiant lors de la pandémie du covid-19.
+
+Les commandes sont simples, il faut seulement mettre de l'appareil de réalité virtuelle ainsi que ces manettes, appuyer sur la touche pour commencer et vivre l'expérience immersive.
 
 [Site du projet](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
 
 # Mise en l'espace de l'oeuvre 
 
-L'oeuvre est installée dans le grand studio parmi 4 autres installations.
+L'oeuvre est installée dans le grand studio, précisément au milieu à gauche. Il necessite seulement un espace suivi d'un mur pour la projection.
 
 Pour son fonctionnement elle utilise :
 
