@@ -15,7 +15,7 @@ Les commandes sont simples, il faut seulement mettre de l'appareil de réalité 
 [Site du projet](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
 
 
-![imagesasha1](https://user-images.githubusercontent.com/89647723/162037261-cb392bd8-ab74-4b9c-bc17-5b27d3960666.jpg)
+![imagesasha1](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Distortion_Collective/media/distortion_ensemble_1.jpg)
 ![imagesasha3](https://user-images.githubusercontent.com/89647723/162037273-f240ebc6-ed62-4bef-b485-1d9184cd11ed.jpg)
 # Mise en l'espace de l'oeuvre 
 
