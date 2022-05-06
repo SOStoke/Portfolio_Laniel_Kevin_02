@@ -80,7 +80,7 @@ Ma première observation de l'oeuvre m'avait prit en confusion, puisqu'il sortai
 J'ai trouvé le concept original, car ils avaient trouvé et enregistré leur sons/vibrations eux-mêmes lors de leur expédition ce qui avait ouvert notre imagination sur où et quoi ce son pourrait être. J'ai aussi bien aimé l'idée de rentrer dans une pièce vide afin de mieux se concentrer sur l'effet que cela apporte au lieu d'être déconcerté par le décor ambiant.
 
 [![Demonstration](https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/SAP/media/mur_auparleur_proche.jpg)](https://youtube.com/shorts/ezsDLDDxG_8)
- <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_cote_droit_topobox.png" width="500" height="600" /> 
+ 
  <br>
 **Négatif:**
 <br>
