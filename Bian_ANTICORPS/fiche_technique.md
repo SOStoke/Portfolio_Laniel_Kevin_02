@@ -6,27 +6,29 @@
 <br>
 
 # Nom de l'artiste: 
-## Daniel Iregui
+### Daniel Iregui
 
 <br>
 
 # Année de réalisation:
-## 2020
+### 2020
 
 <br>
 
 # Nom de l'exposition ou de l'événement:
-## METAMORPHOSIS - Biennale d’art numérique par Electra
+### METAMORPHOSIS - Biennale d’art numérique par Electra
 
 <br>
 
-## Lieu de mise en exposition:
-# Arsenal Contemporary Art à Montréal
+# Lieu de mise en exposition:
+### Arsenal Contemporary Art à Montréal
 
 <br>
 
 # Date de votre visite:
-## 9 février 2022
+### 9 février 2022
+
+<br>
 
 # Description de l'oeuvre ou du dispositif multimédia:
 <br>
