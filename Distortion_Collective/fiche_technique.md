@@ -21,7 +21,7 @@ Les commandes sont simples, il faut seulement mettre de l'appareil de réalité 
 
 L'oeuvre est installée dans le grand studio, précisément au milieu à gauche. Il necessite seulement d'un espace suivi d'un mur pour la projection, une chaise et un bureau. 
 
-##Liste des composantes
+## Liste des composantes
 ### Audio:
 
 * 2 Hauts-parleurs
@@ -66,25 +66,16 @@ L'oeuvre est installée dans le grand studio, précisément au milieu à gauche.
  
 
 * Maya (Modelisation 3D)
-![logiciel_maya](medias/oeuvre_6_logiciel_maya.webp)
 
 
 * Unity (Modélisation 3D)
-![logiciel_unity](medias/oeuvre_6_logiciel_unity.jpg)
 
 # Expérience Vécue: 
 
-Je n'ai pas avoir accès à l'oeuvre car les étudiants n'étaient pas présent.
-
-# Membres de l'équipe: 
-
-* William Dubois
-
-* Ghislain Lacombe 
+J'ai été impressionné de la création 3D dans laquelle nous étions dans la simulation, car elle était réaliste et contenait beaucoup d'élément intéressant qui nous poussait à regarder toute autour de nous. J'ai trouvé l'expérience très immersive et vivante de stimulation, puisque nous nous sentions dans la peu de l'étudiant qui devenait de plus en plus stresser. J'aurais par contre apprécié plus d'interaction avec ce monde virtuel comme faire nos propres choix ou de seulement pouvoir interagir avec les décors. 
 
 
 
  # Références :
  
-L'ensemble des photos de références viennent d'internet.
-
+[Distortion Collective](https://tim-montmorency.com/2022/projets/Distorsion-collective/docs/web/index.html)
