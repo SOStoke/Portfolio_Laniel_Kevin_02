@@ -7,7 +7,7 @@ Ceci est tiré du site du musée McCord: [Site du musée McCord](https://www.mus
 
 
 
-##  Liste des composante techniques 
+##  Liste des composante techniques :
 
 * photogrammétrie (technique qui consiste à effectuer des mesures dans une scène, en utilisant la parallaxe obtenue entre des images acquises selon des points de vue différents) [Wikipédia](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie)
 
@@ -18,12 +18,11 @@ Ceci est tiré du site du musée McCord: [Site du musée McCord](https://www.mus
 
 
 
-## Expériences de l'utilisateur/utilisatrice 
-
+## Expériences de l'utilisateur:
 J’ai trouvé la présentation très pertinente, puisqu’elle parlait d'une branche muséale différente de ceux que l’on voit depuis le début de notre session. De plus,
 J’ai été étonné de voir tous les processus impliquer afin de pouvoir mettre en place une œuvre historique dans un musée. Nous ne réalisons pas les techniques et efforts donne afin de préserver l’histoire des nations autochtones à travers leurs objets. Ce qui ma particulièrement plus était la technique de modélisation 3D des objets présentés à la fin de la présentation. Ils nous ont démontré, à l’aide de technologies moderne, a créé un modèle virtuel de l’objet à l’aide de photos prises sur le terrain. C’était la première fois que je voyais cette technique en face et j’ai été impressionner du résultat et voyant donc tous les possibilités que ceci pourrait nous apporter dans notre carrière. Je suis impatient de pouvoir visiter un musée virtuel et même d’apprendre cette technique.
 
-# Références
+# Références:
 **[Site du musée McCord](https://www.musee-mccord.qc.ca/fr/blogue/umitemieu-hologrammes-collections-nomades/)**
 <br>
 **[Site de Wikipédia](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie)**
