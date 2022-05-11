@@ -123,16 +123,12 @@ Mon interaction avec le topo box s'est produite à la fin de ma visite au Cosmod
 <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_topobox_1.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/description_topobox_1.png" width="500" height="600" /> 
 <br>
 ### Positif
-<br>
-<br>
 Le dispositif est interactif et est influencé par les gestes des utilisateurs s'amusant à créer toutes sortent de formes à l'aide de sables ainsi que d'averse. IL est facile d'utilisation et nécessite pas vraiment d'explication pouvant diminuer l'attention de l'utilisateur. Il est facile d'accès et est disposé dans un endroit permanent une bonne circulation. Les projections sont attrayantes et projettent des reliefs clairs et bien délimités avec des couleurs lumineuses. Finalement, il est  utile à des fins éducatif pour de nombreuses sciences de la Terre tels que la topographie.
 
  <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_ensemble_cote_droit.png" width="500" height="600"/>   <img src="https://github.com/SOStoke/Portfolio_Laniel_Kevin_02/blob/main/Cosmodome/media/vue_cote_droit_topobox.png" width="500" height="600" /> 
  <br>
 
 ### Négatif
-<br>
-<br>
 Le topo box nécessite un nettoyage constant, puisqu'il n'est pas très sanitaire et utilise une substance qui est difficile à contenir, du sable. Lors de mon expérience, il y avait du sable tout autour du dispositif. J'aurais aimé un bac à sable d'une plus grande envergure afin de créer des territoires à plus grandes échelles et mieux expériences les processus météorologiques créés. De plus, en faisant des recherches sur le site de leur compagnie, j'ai découvert des fonctionnalités qui n'avaient pas été implanter dans l'interaction du topo box incluant des créations de volcans, une option pour créer une averse par-dessus tous les continents en même temps et une fonction permettant de geler le terrain afin de créer un territoire sans modifier la projection précédente.
 
 
